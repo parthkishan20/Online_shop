@@ -1,0 +1,8 @@
+{
+  "editor.mouseWheelZoom": true,
+  "files.autoSave": "afterDelay",
+  "cSpell.words": [
+    "middlewares",
+    "resave"
+  ]
+}
